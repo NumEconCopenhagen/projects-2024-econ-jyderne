@@ -1,9 +1,8 @@
-# \[Group name\]
+# \[econ-jyderne\]
 
 **Group members:**
-- A
-- B
-- C
+- Lasse Rask Jensen
+- Christian Winther Heedegaard Jørgensen
 
 This repository contains  
 1. Inaugural project. 
