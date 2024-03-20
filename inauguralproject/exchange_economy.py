@@ -23,6 +23,7 @@ class ExchangeEconomyClass:
 
     def demand_A(self, p1):
         p2 = 1  # Numeraire
+    
         x1A = self.par.alpha / p1 * (self.par.w1A + p1/p2 * self.par.w2A)
         x2A = (1 - self.par.alpha) / p2 * (self.par.w1A + p1/p2 * self.par.w2A)
         return x1A, x2A
