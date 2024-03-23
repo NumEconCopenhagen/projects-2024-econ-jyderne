@@ -1,6 +1,6 @@
 from types import SimpleNamespace
 import numpy as np
-#hey
+
 class ExchangeEconomyClass:
 
     def __init__(self):
