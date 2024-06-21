@@ -2,7 +2,7 @@
 
 **Group members:**
 - Lasse Rask Jensen
-- Christian Winther Heedegaard Jørgensen
+- Christian Winther Heedegaard Jørgensen - JZT738
 
 This repository contains  
 1. Inaugural project. 
