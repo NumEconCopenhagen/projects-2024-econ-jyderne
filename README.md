@@ -1,8 +1,8 @@
 # \[econ-jyderne\]
 
 **Group members:**
-- Lasse Rask Jensen - MNP693
-- Christian Winther Heedegaard Jørgensen - JZT738
+- MNP693
+- JZT738
 
 This repository contains  
 1. Inaugural project. 
