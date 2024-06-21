@@ -8,6 +8,4 @@ We apply the **following datasets**:
 
 1. FPI_KEY_2008_FORWARD.xlsx 
 
-**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
-
-``pip install matplotlib-venn``
+**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires no further packages. 
