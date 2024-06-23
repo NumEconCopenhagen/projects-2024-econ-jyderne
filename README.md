@@ -12,3 +12,5 @@ This repository contains:
 3. Model project. We model the dynamic Malthus model and afterwards add mortality to the model to see how it effects the reuslts.
 
 4. Exam Project 2024
+
+We used AI to address bugs and guide us through the development process. Additionally, it contributed ideas for various projects. We utilized GitHub's Copilot and ChatGPT for these tasks.
