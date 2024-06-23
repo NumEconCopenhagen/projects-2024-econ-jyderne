@@ -6,6 +6,6 @@ The **results** of the project can be seen from running [dataproject.ipynb](data
 
 We apply the **following datasets**:
 
-1. csv_ny.csv 
+1. FPI_DATA.csv 
 
 **Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires no further packages. 
